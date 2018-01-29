@@ -1,0 +1,39 @@
+class ZCL_MOCK_CLASS definition
+  public
+  final
+  create public .
+
+public section.
+  interfaces ZIF_ABAP_TO_MOCK .
+  
+protected section.
+
+private section.
+
+ENDCLASS.
+
+
+
+CLASS ZCL_MOCK_CLASS IMPLEMENTATION.
+
+
+* <SIGNATURE>---------------------------------------------------------------------------------------+
+* | Instance Public Method ZCL_MOCK_CLASS->ZIF_ABAP_TO_MOCK~GET_TESTS
+* +-------------------------------------------------------------------------------------------------+
+* | [<---] ET_TESTS                       TYPE        STRING_TABLE
+* +--------------------------------------------------------------------------------------</SIGNATURE>
+method ZIF_ABAP_TO_MOCK~GET_TESTS.
+      field-symbols: <ls_tests> like line of et_tests.
+
+    APPEND INITIAL LINE TO et_tests assigning <ls_tests>.
+    <ls_tests> = 'Test1'.
+    APPEND INITIAL LINE TO et_tests assigning <ls_tests>.
+    <ls_tests> = 'Test2'.
+    APPEND INITIAL LINE TO et_tests assigning <ls_tests>.
+    <ls_tests> = 'Test3'.
+    APPEND INITIAL LINE TO et_tests assigning <ls_tests>.
+    <ls_tests> = 'Test4'.
+    APPEND INITIAL LINE TO et_tests assigning <ls_tests>.
+    <ls_tests> = 'Test5'.
+endmethod.
+ENDCLASS.

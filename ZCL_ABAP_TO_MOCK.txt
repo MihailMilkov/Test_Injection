@@ -1,0 +1,28 @@
+class ZCL_ABAP_TO_MOCK definition
+  public
+  final
+  create public .
+
+public section.
+
+  interfaces ZIF_ABAP_TO_MOCK .
+protected section.
+
+private section.
+
+ENDCLASS.
+
+
+
+CLASS ZCL_ABAP_TO_MOCK IMPLEMENTATION.
+
+
+* <SIGNATURE>---------------------------------------------------------------------------------------+
+* | Instance Public Method ZCL_ABAP_TO_MOCK->ZIF_ABAP_TO_MOCK~GET_TESTS
+* +-------------------------------------------------------------------------------------------------+
+* | [<---] ET_TESTS                       TYPE        STRING_TABLE
+* +--------------------------------------------------------------------------------------</SIGNATURE>
+method ZIF_ABAP_TO_MOCK~GET_TESTS.
+  "Empty implementation
+endmethod.
+ENDCLASS.

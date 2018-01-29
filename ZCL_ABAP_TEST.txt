@@ -1,0 +1,53 @@
+class ZCL_ABAP_TEST definition
+  public
+  final
+  create public .
+
+public section.
+*"* public components of class ZCL_ABAP_TEST
+*"* do not include other source files here!!!
+
+  methods CONSTRUCTOR
+    importing
+      !IO_MOCK_OBJECT type ref to ZIF_ABAP_TO_MOCK optional .
+  methods DUMMY_METHOD .
+protected section.
+*"* protected components of class ZCL_ABAP_TEST
+*"* do not include other source files here!!!
+private section.
+*"* private components of class ZCL_ABAP_TEST
+*"* do not include other source files here!!!
+
+  data MO_TO_MOCK type ref to ZIF_ABAP_TO_MOCK .
+ENDCLASS.
+
+
+
+CLASS ZCL_ABAP_TEST IMPLEMENTATION.
+
+
+* <SIGNATURE>---------------------------------------------------------------------------------------+
+* | Instance Public Method ZCL_ABAP_TEST->CONSTRUCTOR
+* +-------------------------------------------------------------------------------------------------+
+* | [--->] IO_MOCK_OBJECT                 TYPE REF TO ZIF_ABAP_TO_MOCK(optional)
+* +--------------------------------------------------------------------------------------</SIGNATURE>
+method CONSTRUCTOR.
+
+  data lt_tests type string_table.
+
+  test-seam mock_object.
+  create object mo_to_mock type zcl_abap_to_mock.
+  end-test-seam.
+
+  me->mo_to_mock->get_tests( importing et_tests = lt_tests ).
+
+endmethod.
+
+
+* <SIGNATURE>---------------------------------------------------------------------------------------+
+* | Instance Public Method ZCL_ABAP_TEST->DUMMY_METHOD
+* +-------------------------------------------------------------------------------------------------+
+* +--------------------------------------------------------------------------------------</SIGNATURE>
+method DUMMY_METHOD.
+endmethod.
+ENDCLASS.

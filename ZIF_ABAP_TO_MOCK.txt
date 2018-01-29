@@ -1,0 +1,9 @@
+*"* components of interface ZIF_ABAP_TO_MOCK
+interface ZIF_ABAP_TO_MOCK
+  public .
+
+
+  methods GET_TESTS
+    exporting
+      !ET_TESTS type STRING_TABLE .
+endinterface.

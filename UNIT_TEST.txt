@@ -1,0 +1,32 @@
+class zcl_Abap_Test_Test definition for testing
+  duration short
+  risk level harmless.
+
+  private section.
+* ================
+    data:
+      f_Cut type ref to zcl_Abap_Test.  "class under test
+
+    methods:
+     setup,
+     dummy_Method for testing.
+endclass.       "zcl_Abap_Test_Test
+
+
+class zcl_Abap_Test_Test implementation.
+  method setup.
+    test-injection mock_object.
+      create object mo_to_mock type zcl_mock_class.
+    end-test-injection.
+    create object f_Cut.
+  endmethod.
+
+  method dummy_Method.
+
+
+  endmethod.       "dummy_Method
+
+
+
+
+endclass.       "zcl_Abap_Test_Test

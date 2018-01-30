@@ -7,9 +7,7 @@ public section.
 *"* public components of class ZCL_ABAP_TEST
 *"* do not include other source files here!!!
 
-  methods CONSTRUCTOR
-    importing
-      !IO_MOCK_OBJECT type ref to ZIF_ABAP_TO_MOCK optional .
+  methods CONSTRUCTOR.
   methods DUMMY_METHOD .
 protected section.
 *"* protected components of class ZCL_ABAP_TEST

@@ -1,0 +1,479 @@
+%PDF-1.3
+101 0 obj
+<< /Length 6299 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 20 752 Tm
+0.00 0.00 1.00 rg
+0.00 0.00 1.00 RG
+(class ) Tj
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(zcl_Abap_Test_Test ) Tj
+0.00 0.00 1.00 rg
+0.00 0.00 1.00 RG
+(definition ) Tj
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(deferred) Tj
+0.50 0.00 0.50 rg
+0.50 0.00 0.50 RG
+(.) Tj
+0 -12 TD
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(  ) Tj
+0.00 0.00 1.00 rg
+0.00 0.00 1.00 RG
+(class ) Tj
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(zcl_abap_test ) Tj
+0.00 0.00 1.00 rg
+0.00 0.00 1.00 RG
+(definition) Tj
+0 -12 TD
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(    ) Tj
+0.00 0.00 1.00 rg
+0.00 0.00 1.00 RG
+(local ) Tj
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(friends ) Tj
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(zcl_abap_test_test) Tj
+0.50 0.00 0.50 rg
+0.50 0.00 0.50 RG
+(.) Tj
+0 -12 TD
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+() Tj
+0 -12 TD
+0.00 0.00 1.00 rg
+0.00 0.00 1.00 RG
+(class ) Tj
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(zcl_Abap_Test_Test ) Tj
+0.00 0.00 1.00 rg
+0.00 0.00 1.00 RG
+(definition ) Tj
+0.00 0.00 1.00 rg
+0.00 0.00 1.00 RG
+(for ) Tj
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(testing) Tj
+0 -12 TD
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(  ) Tj
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(duration ) Tj
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(short) Tj
+0 -12 TD
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(  ) Tj
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(risk ) Tj
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(level ) Tj
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(harmless) Tj
+0.50 0.00 0.50 rg
+0.50 0.00 0.50 RG
+(.) Tj
+0 -12 TD
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+() Tj
+0 -12 TD
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(  ) Tj
+0.00 0.00 1.00 rg
+0.00 0.00 1.00 RG
+(private ) Tj
+0.00 0.00 1.00 rg
+0.00 0.00 1.00 RG
+(section) Tj
+0.50 0.00 0.50 rg
+0.50 0.00 0.50 RG
+(.) Tj
+0 -12 TD
+/F3 10 Tf
+0.50 0.50 0.50 rg
+0.50 0.50 0.50 RG
+(* ================) Tj
+0 -12 TD
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(    ) Tj
+0.00 0.00 1.00 rg
+0.00 0.00 1.00 RG
+(data) Tj
+0.50 0.00 0.50 rg
+0.50 0.00 0.50 RG
+(:) Tj
+0 -12 TD
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(      ) Tj
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(f_Cut ) Tj
+0.00 0.00 1.00 rg
+0.00 0.00 1.00 RG
+(type ) Tj
+0.00 0.00 1.00 rg
+0.00 0.00 1.00 RG
+(ref ) Tj
+0.00 0.00 1.00 rg
+0.00 0.00 1.00 RG
+(to ) Tj
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(zcl_Abap_Test) Tj
+0.50 0.00 0.50 rg
+0.50 0.00 0.50 RG
+(.  ) Tj
+/F3 10 Tf
+0.50 0.50 0.50 rg
+0.50 0.50 0.50 RG
+("class under test) Tj
+0 -12 TD
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+() Tj
+0 -12 TD
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(    ) Tj
+0.00 0.00 1.00 rg
+0.00 0.00 1.00 RG
+(methods) Tj
+0.50 0.00 0.50 rg
+0.50 0.00 0.50 RG
+(:) Tj
+0 -12 TD
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(     ) Tj
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(setup) Tj
+0.50 0.00 0.50 rg
+0.50 0.00 0.50 RG
+(,) Tj
+0 -12 TD
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(     ) Tj
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(dummy_Method ) Tj
+0.00 0.00 1.00 rg
+0.00 0.00 1.00 RG
+(for ) Tj
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(testing) Tj
+0.50 0.00 0.50 rg
+0.50 0.00 0.50 RG
+(.) Tj
+0 -12 TD
+0.00 0.00 1.00 rg
+0.00 0.00 1.00 RG
+(endclass) Tj
+0.50 0.00 0.50 rg
+0.50 0.00 0.50 RG
+(.       ) Tj
+/F3 10 Tf
+0.50 0.50 0.50 rg
+0.50 0.50 0.50 RG
+("zcl_Abap_Test_Test) Tj
+0 -12 TD
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+() Tj
+0 -12 TD
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+() Tj
+0 -12 TD
+0.00 0.00 1.00 rg
+0.00 0.00 1.00 RG
+(class ) Tj
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(zcl_Abap_Test_Test ) Tj
+0.00 0.00 1.00 rg
+0.00 0.00 1.00 RG
+(implementation) Tj
+0.50 0.00 0.50 rg
+0.50 0.00 0.50 RG
+(.) Tj
+0 -12 TD
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(  ) Tj
+0.00 0.00 1.00 rg
+0.00 0.00 1.00 RG
+(method ) Tj
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(setup) Tj
+0.50 0.00 0.50 rg
+0.50 0.00 0.50 RG
+(.) Tj
+0 -12 TD
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(    ) Tj
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(test) Tj
+0.50 0.50 0.50 rg
+0.50 0.50 0.50 RG
+(-) Tj
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(injection ) Tj
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(mock_object) Tj
+0.50 0.00 0.50 rg
+0.50 0.00 0.50 RG
+(.) Tj
+0 -12 TD
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(      ) Tj
+0.00 0.00 1.00 rg
+0.00 0.00 1.00 RG
+(create ) Tj
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(object ) Tj
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(mo_to_mock ) Tj
+0.00 0.00 1.00 rg
+0.00 0.00 1.00 RG
+(type ) Tj
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(zcl_mock_class) Tj
+0.50 0.00 0.50 rg
+0.50 0.00 0.50 RG
+(.) Tj
+0 -12 TD
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(    ) Tj
+0.00 0.00 1.00 rg
+0.00 0.00 1.00 RG
+(end) Tj
+0.50 0.50 0.50 rg
+0.50 0.50 0.50 RG
+(-) Tj
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(test) Tj
+0.50 0.50 0.50 rg
+0.50 0.50 0.50 RG
+(-) Tj
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(injection) Tj
+0.50 0.00 0.50 rg
+0.50 0.00 0.50 RG
+(.) Tj
+0 -12 TD
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(    ) Tj
+0.00 0.00 1.00 rg
+0.00 0.00 1.00 RG
+(create ) Tj
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(object ) Tj
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(f_Cut) Tj
+0.50 0.00 0.50 rg
+0.50 0.00 0.50 RG
+(.) Tj
+0 -12 TD
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(  ) Tj
+0.00 0.00 1.00 rg
+0.00 0.00 1.00 RG
+(endmethod) Tj
+0.50 0.00 0.50 rg
+0.50 0.00 0.50 RG
+(.) Tj
+0 -12 TD
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+() Tj
+0 -12 TD
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(  ) Tj
+0.00 0.00 1.00 rg
+0.00 0.00 1.00 RG
+(method ) Tj
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(dummy_Method) Tj
+0.50 0.00 0.50 rg
+0.50 0.00 0.50 RG
+(.) Tj
+0 -12 TD
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+() Tj
+0 -12 TD
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+() Tj
+0 -12 TD
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+(  ) Tj
+0.00 0.00 1.00 rg
+0.00 0.00 1.00 RG
+(endmethod) Tj
+0.50 0.00 0.50 rg
+0.50 0.00 0.50 RG
+(.       ) Tj
+/F3 10 Tf
+0.50 0.50 0.50 rg
+0.50 0.50 0.50 RG
+("dummy_Method) Tj
+0 -12 TD
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+() Tj
+0 -12 TD
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+() Tj
+0 -12 TD
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+() Tj
+0 -12 TD
+0.00 0.00 0.00 rg
+0.00 0.00 0.00 RG
+() Tj
+0 -12 TD
+0.00 0.00 1.00 rg
+0.00 0.00 1.00 RG
+(endclass) Tj
+0.50 0.00 0.50 rg
+0.50 0.00 0.50 RG
+(.       ) Tj
+/F3 10 Tf
+0.50 0.50 0.50 rg
+0.50 0.50 0.50 RG
+("zcl_Abap_Test_Test) Tj
+ET
+endstream
+endobj
+100 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/MediaBox [ 0 0 612 792 ]
+/Contents 101 0 R
+/Resources << /ProcSet 6 0 R
+/Font << /F1 7 0 R 
+/F2 8 0 R 
+/F3 9 0 R 
+/F4 10 0 R >>
+>>
+>>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [100 0 R ]
+/Count 1
+>>
+endobj
+% catalog object
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R
+>>
+endobj
+2 0 obj
+<< /Type /Outlines
+/Count 0
+>>
+endobj
+6 0 obj
+[ /PDF /Text ]
+endobj
+7 0 obj
+<< /Type /Font
+/Subtype /TrueType
+/Name /F1
+/BaseFont /Courier
+/Encoding /MacRomanEncoding
+>>
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /TrueType
+/Name /F2
+/BaseFont /Courier-Bold
+/Encoding /MacRomanEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /TrueType
+/Name /F3
+/BaseFont /Courier-Oblique
+/Encoding /MacRomanEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Font
+/Subtype /TrueType
+/Name /F4
+/BaseFont /Courier-BoldOblique
+/Encoding /MacRomanEncoding
+>>
+endobj
+11 0 obj
+<<
+/CreationDate (D:20180130110900)
+/Creator (AB4Editor Control)
+/Producer (AB4Editor Control)
+/Title (ZCL_ABAP_TEST=================CCAU)
+>>
+endobj
+trailer
+<< /Info 11 0 R
+/Root 1 0 R
+ >>
+startxref
+0
+%%EOF
